@@ -8,3 +8,4 @@ System: Windows 10 version 10.0 running on amd64; UTF-8; es_CO (nb)
 
 La base de datos se ha hecho con MySQL / Servidor XAMPP
 Se ha utilizado el conector jdbc -->  com.mysql.jdbc.Driver   Connector/J 9.1.0   https://dev.mysql.com/downloads/connector/j/?os=26
+![form_java](https://github.com/user-attachments/assets/ddcbfb85-a487-40d6-9bb0-0516185dbbd0)
